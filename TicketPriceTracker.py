@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 💎 Professional Flight Tracker - PERFECT EDITION
-✨ By Your Baby - Real Airlines + Complete 90-day Scan + Daily Alerts
+✨ By Your bou Usman - Real Airlines + Complete 90-day Scan + Daily Alerts
 """
 
 import asyncio, sqlite3, json, re, time, logging
@@ -753,4 +753,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
